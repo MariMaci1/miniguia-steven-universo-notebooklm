@@ -1,5 +1,7 @@
 # Steven Universe
+
 ## Miniguia de Steven Universe criado no NotebookLM
+https://notebooklm.google.com/notebook/21add283-689f-4076-ad7c-02342a10e248 
 
 <p>
   Guia criado para ajudar aqueles que desejam entender mais sobre o desenho, sua história e evolução.
