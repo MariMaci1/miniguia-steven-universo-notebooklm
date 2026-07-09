@@ -11,15 +11,16 @@ https://notebooklm.google.com/notebook/21add283-689f-4076-ad7c-02342a10e248
 ## Estúdio
 
 <p>
-  No estúdios temos:
+  No estúdios temos:<br>
+  -Mapa Mental<br>
+  *Vídeos<br>
+  *Resumo em Áudios<br>
+  *Slides<br>
+  *FlashCards<br>
+  *Quiz<br>
+  *Tabela de Dados<br>
 </p>
-  *Mapa Mental
-  *Vídeos
-  *Resumo em Áudios
-  *Slides
-  *FlashCards
-  *Quiz
-  *Tabela de Dados
+ 
 
 ## Fontes
 
