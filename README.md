@@ -17,6 +17,9 @@ https://notebooklm.google.com/notebook/21add283-689f-4076-ad7c-02342a10e248
 <ul>Vídeos</ul>
 <ul>Resumo em Áudios</ul>
 <ul>Slides</ul>
+<ul>FlashCards</ul>
+<ul>Quiz</ul>
+<ul>Tabela de Dados</ul>
 
 ## Fontes
 
