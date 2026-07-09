@@ -13,16 +13,16 @@ https://notebooklm.google.com/notebook/21add283-689f-4076-ad7c-02342a10e248
 <p>
   No estúdios temos:
 </p>
-  *<ul>Mapa Mental</ul>
-  *<ul>Vídeos</ul>
-  *<ul>Resumo em Áudios</ul>
-  *<ul>Slides</ul>
-  *<ul>FlashCards</ul>
-  *<ul>Quiz</ul>
-  *<ul>Tabela de Dados</ul>
+  *Mapa Mental
+  *Vídeos
+  *Resumo em Áudios
+  *Slides
+  *FlashCards
+  *Quiz
+  *Tabela de Dados
 
 ## Fontes
 
 <p>
-  *<ul>12 fontes, composto por vídeos e textos</ul> 
+  *12 fontes, composto por vídeos e textos
 </p>
